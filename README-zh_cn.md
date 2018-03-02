@@ -5,7 +5,9 @@
 [![Python 3.5][Python3.5_badge]][Python]
 [![License: GPL v3][GPLV3_badge]][GPLV3]
 
-<center><img src="https://raw.githubusercontent.com/HurryPeng/MutualAdmire/master/images/Admire.png" height="100"></center>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/HurryPeng/MutualAdmire/master/images/Admire.png" height="100">
+</div>
 
 一个基于 [ItChat][Itchat] 的微信机器人
 
