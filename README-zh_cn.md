@@ -1,42 +1,42 @@
-English | [简体中文](/README-zh_cn.md)
+[English](/README.md) | 简体中文
 
-# MutualAdmire
+# 相敬如宾
 
 [![Python 3.5][Python3.5_badge]][Python]
 [![License: GPL v3][GPLV3_badge]][GPLV3]
 
 <center><img src="https://raw.githubusercontent.com/HurryPeng/MutualAdmire/master/images/Admire.png" height="100"></center>
 
-A WeChat auto-reply robot based on [ItChat][Itchat]
+一个基于 [ItChat][Itchat] 的微信机器人
 
-## Origin
+## 缘起
 
-It can be a very embarrasing experience when someone always uses "![Admire][Admire_small]" to reply to you on WeChat, especially when s/he is more experienced than you in some ways. The only best way to reply is by sending the same emoji back, though it sometimes ends the conversation instantly. 
+有人老是在微信上用 "![Admire][Admire_small]" 来回复你有时候会显得很尬，尤其是当这个人还比你牛逼的时候。唯一的应对方案就是，用同样的表情甩回去，虽然这样可能会瞬间终结谈话。
 
-## Features
+## 功能
 
-The robot counts how many "![Admire][Admire_small]"(s) you receive in a text message and replies with the same number of "![Admire][Admire_small]"(s) within one text message, as is shown below. 
+这个机器人会先数你收到的上一条消息里有多少个 "![Admire][Admire_small]"，然后照数奉还，效果如下。
 
-![Chatting with Kristine][KristineScreenshot]
+![和江子萱聊天][KristineScreenshot_zh-cn]
 
-## Dependencies
+## 依赖
 
 - [ItChat][ItChat]
 
-## Usage
+## 使用
 
-Download MutualAdmire.py and run it on any device with Python3. It should be always running in order to work properly. Please be notified that [ItChat][ItChat] is based on Web WeChat and thus has conflicts with WeChat for PC. 
+下载 MutualAdmire.py 并在任何一台安装了 Python3 的设备上运行。只有当程序一直在运行，机器人才会自动回复。请注意因为 [ItChat][ItChat] 是基于微信网页版的，所以不能同时运行微信PC版。
 
-## Thanks for Open Source
+## 感谢开源
 
-- [ItChat][ItChat]: A complete and graceful API for Wechat
+- [ItChat][ItChat]: 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人
 
-## Acknoledgements
+## 鸣谢
 
-- Kristine Jiang, whose endless "![Admire][Admire_small]"s inspired me to develop this project
-- Sandra Zhou, who received mountains of test messages from me
+- 江子萱，就是因为她不停地发 "![Admire][Admire_small]" 所以我才做的这个项目
+- 周悦, 我测试程序的时候给她发了一大堆测试消息
 
-## License
+## 版权
 
     Copyright (C) 2018  Haoran "Hurry" Peng
 
@@ -60,4 +60,4 @@ Download MutualAdmire.py and run it on any device with Python3. It should be alw
 [Python]: https://www.python.org
 [GPLV3_badge]: https://img.shields.io/badge/License-GPL%20v3-blue.svg
 [GPLV3]: https://www.gnu.org/licenses/gpl-3.0
-[KristineScreenshot]: https://raw.githubusercontent.com/HurryPeng/MutualAdmire/master/images/Kristine.png
+[KristineScreenshot_zh-cn]: https://raw.githubusercontent.com/HurryPeng/MutualAdmire/master/images/Kristine-zh_cn.png
