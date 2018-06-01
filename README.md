@@ -33,7 +33,7 @@ Download MutualAdmire.py and run it on any device with Python3. It should be alw
 
 - [ItChat][ItChat]: A complete and graceful API for Wechat
 
-## Acknoledgements
+## Acknowledgements
 
 - Kristine Jiang, whose endless "![Admire][Admire_small]"s inspired me to develop this project
 - Sandra Zhou, who received mountains of test messages from me
